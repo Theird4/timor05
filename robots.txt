@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://aksitoto.xy2401.com/sitemap.xml
